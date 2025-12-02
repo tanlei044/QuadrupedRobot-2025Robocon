@@ -1,0 +1,2 @@
+# Quadruped-Robot-2025Robocon-Shanghai-Ocean-University
+Open-source quadruped control: Xiaomi Cybergear + Jetson Orin NX. Dual USB-to-CAN for low-latency CAN communication, Python code encapsulating motor protocols &amp; data I/O. Dual-motor series drive per leg, with kinematics, three-loop control, auto zero-calibration, fault handling, joystick support &amp; Trot (diagonal gait) for stable movement.
