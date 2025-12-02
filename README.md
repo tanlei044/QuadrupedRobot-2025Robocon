@@ -1,4 +1,2 @@
-# Quadruped-Robot-2025Robocon
-Open-source quadruped control: Xiaomi Cybergear + Jetson Orin NX. Dual USB-to-CAN for low-latency CAN communication, Python code encapsulating motor protocols &amp; data I/O. Dual-motor series drive per leg, with kinematics, three-loop control, auto zero-calibration, fault handling, joystick support &amp; Trot (diagonal gait) for stable movement.
 这个项目由楼主团队从2024年11月开始准备，前期是由负责机械的同学进行机器人机身的设计，到2025年4月左右，楼主开始进行电机的调试与控制逻辑的搭建，共历时7个月，获得了包括全国大学生机器人大赛三等在内的荣誉。写这篇帖子的目的，一方面是想给有志于从生四足机器人开发的伙伴提供一些经验，一方面是想通过文字的方式留下这段记忆。当然，由于项目正处于第一代入门级，想学到相关智能算法的伙伴谨慎往下阅读。希望团队的经验能对你有所帮助。
 
